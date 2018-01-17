@@ -1,0 +1,2 @@
+# yotocoin
+cryptocurrency
